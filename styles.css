@@ -1,0 +1,165 @@
+body {
+  font-family: "Montserrat";
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: black;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 3% 0 0
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+h5{
+  font-family: 'Nerko One', cursive;
+  font-size: 2rem;
+  margin-top: 6%
+}
+
+p {
+  color: #863A6F;
+}
+
+.first-section {
+  border-radius: 50px;
+  background-color: #E5B8F4;
+}
+
+/* Download Button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  padding: 3% 6% 6% 25%;
+  width: 65%;
+  height: 100%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat"
+}
+
+.front-page {
+  padding-top: 10%;
+}
+
+/* Feature Section */
+
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+  border-radius: 50px;
+  background-color: #F2E5E5;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #863A6F;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #D989B5;
+}
+
+/* Font Awesome */
+.icon {
+  max-width: 100%;
+  max-height: 100%
+}
+
+.fa-solid {
+  font-size: 4em;
+  font-weight: 900;
+}
+
+/*testimonial */
+#testimonial {
+  border-radius: 50px;
+  background-color: #9ED5C5;
+  text-align: center;
+}
+
+.play {
+  margin: 5% 3% 5% 5%;
+}
+
+.carousel-item {
+  padding: 7% 15%
+}
+
+.car{
+  background-color: black;
+}
+
+.show-img{
+	display:none;
+  margin-top: 5%;
+}
+
+.showbtn{
+  margin: 3% 3% 5% 5%;
+}
+
+.logo-img{
+  border-radius: 30%;
+  margin: 3% 3% 5% 5%;
+  width: 25%;
+  height: 25%;
+}
+
+.space{
+  margin-top: 3%;
+}
+
+.about-sec{
+  border-radius: 50px;
+  background-color: #DAE2B6;
+  text-align: center;
+}
+
+.para{
+  font-size: 20px;
+  line-height: 2.5;
+ margin-bottom: 0;
+ padding:0 7% 3%
+}
+
+#footer {
+  text-align: center;
+  background-color: #CFF5E7;
+  border-radius: 50px;
+  padding: 7% 15%;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
